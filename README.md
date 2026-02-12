@@ -45,12 +45,4 @@ izlenmesini ve anomali durumlarında erken uyarı üretimini göstermektedir.
 
 ![Örnek Grafik](docs/ornek_grafik.png)
 
-## Çalıştırma
-
-1) Gerekli paket:
-pip yerine:
-python -m pip install matplotlib
-
-2) Simülasyonu çalıştır:
-python su_analiz_simulasyon.py
 
