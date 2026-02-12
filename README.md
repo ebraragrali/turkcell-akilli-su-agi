@@ -37,3 +37,10 @@ erken uyarı mekanizması sunar.
 Bu depo, Turkcell "Yarının Teknoloji Liderleri" yarışması kapsamında
 hazırlanan kavramsal sistem tasarımını içermektedir.
 Geliştirme ve pilot uygulama aşamaları planlanmaktadır.
+
+## Örnek Çıktı (Simülasyon)
+
+Aşağıdaki grafikler, sensör verisi simülasyonu üzerinden basınç/akış değişimlerinin
+izlenmesini ve anomali durumlarında erken uyarı üretimini göstermektedir.
+
+![Örnek Grafik](docs/ornek_grafik.png)
